@@ -1,4 +1,5 @@
 #Task1
+
 first we get a number from user
 define factorial
 we need a cantainer named result=1
